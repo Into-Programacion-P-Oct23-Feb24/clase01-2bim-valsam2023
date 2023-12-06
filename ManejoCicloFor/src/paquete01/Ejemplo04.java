@@ -16,7 +16,7 @@ public class Ejemplo04 {
      */
     public static void main(String[] args) {
         
-        for (int i = 20; i >= 0; i-=2) {
+        for (int i = 20; i >= 0; i-=2) { // el i-=2 resta 2
             System.out.printf("%d\n", i);
         }
       
